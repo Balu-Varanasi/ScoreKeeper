@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cricket Batting Score Board</string>
+
+    <string name="team_india">Team India</string>
+    <string name="team_australia">Team Australia</string>
+    <string name="one_run">+1 Run</string>
+    <string name="two_runs">+2 Runs</string>
+    <string name="three_runs">+3 Runs</string>
+    <string name="four_runs">+4 Runs</string>
+    <string name="six_runs">+6 Runs</string>
+</resources>
